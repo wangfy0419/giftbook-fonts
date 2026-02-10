@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/wangfy0419/giftboot-fonts#readme",
   "files": [
-    "fonts/**/*"
+    "fonts/**/*",
+    "index.js"
   ]
 }
