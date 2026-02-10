@@ -1,0 +1,32 @@
+{
+  "name": "giftboot-fonts",
+  "version": "1.0.0",
+  "description": "GiftBoot Fonts - An open-source Chinese font library | 礼启字体库 - 开源中文字体库",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangfy0419/giftboot-fonts.git"
+  },
+  "keywords": [
+    "fonts",
+    "chinese",
+    "chinese-fonts",
+    "songti",
+    "heiti",
+    "fangsong",
+    "kaishu",
+    "xingkai",
+    "xingshu",
+    "中文字体",
+    "字体库"
+  ],
+  "author": "wangfy0419 <wangfangyi0419@sina.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangfy0419/giftboot-fonts/issues"
+  },
+  "homepage": "https://github.com/wangfy0419/giftboot-fonts#readme",
+  "files": [
+    "fonts/**/*"
+  ]
+}
