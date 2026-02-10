@@ -54,6 +54,18 @@ body {
 }
 ```
 
+#### Node.js 项目
+
+```javascript
+const fonts = require('giftboot-fonts');
+
+// 获取字体路径
+console.log(fonts.fonts.SongTi); // 输出：/path/to/fonts/SongTi.otf
+
+// 获取字体目录
+console.log(fonts.fontsDir); // 输出：/path/to/fonts
+```
+
 #### React/Vue 项目
 
 ```javascript
@@ -118,6 +130,18 @@ git clone https://github.com/wangfy0419/giftboot-fonts.git
 body {
   font-family: 'SongTi', serif;
 }
+```
+
+#### Node.js Projects
+
+```javascript
+const fonts = require('giftboot-fonts');
+
+// Get font paths
+console.log(fonts.fonts.SongTi); // Output: /path/to/fonts/SongTi.otf
+
+// Get fonts directory
+console.log(fonts.fontsDir); // Output: /path/to/fonts
 ```
 
 #### React/Vue Projects
